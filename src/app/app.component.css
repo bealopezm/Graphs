@@ -1,0 +1,19 @@
+header {
+  background-color: #42A5F5;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+}
+
+li {
+  margin: 5px;
+  padding: 5px;
+  cursor: pointer;
+  list-style: none;
+}
+
+div {
+  margin: 5px 6px;
+}
